@@ -1,0 +1,4 @@
+The default message editor has been changed to VScode from Vim
+fuck Vim
+git config --global core.editor "code --wait"
+fin.
